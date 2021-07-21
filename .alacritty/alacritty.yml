@@ -7,11 +7,11 @@ colors:
   normal: 
     black: '#282a2e'
     red: '#a54242'
-    green: '#47CC26'
+    green: '#26A269'
     yellow: '#de935f'
     blue: '#5dadde'
     magenta: '#85678f'
-    cyan: '#5e8d87'
+    cyan: '#5dc1f3'
     white: '#ffffff'
   bright:
     blacl: '#373b41'

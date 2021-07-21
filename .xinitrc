@@ -50,6 +50,4 @@ fi
 
 picom -f &
 nitrogen --restore &
-#exec dwm
-#exec bspwm
-#exec awesome
+exec bspwm
